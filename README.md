@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Indrajeet Patil 👋
 
-<!--
-**Indrajeet-qa/Indrajeet-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Automation Test Engineer** who loves building reliable test frameworks.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Selenium, Playwright Framework
+- Java, Javascript with typescript
+- API Testing (Postman)
+- TestNG, PyTest
+- Git, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/your-id
+- Email: Indrajeet3669@gmail.com
