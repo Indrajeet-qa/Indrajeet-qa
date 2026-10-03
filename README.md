@@ -139,13 +139,7 @@ I believe in continuous learning, practical implementation, and improving test q
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrajeetqa&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
