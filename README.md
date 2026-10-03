@@ -11,5 +11,5 @@ I'm an **Automation Test Engineer** who loves building reliable test frameworks.
 
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/your-id
+- LinkedIn: www.linkedin.com/in/indrajeet-patil-60baa0209
 - Email: Indrajeet3669@gmail.com
